@@ -155,3 +155,7 @@ HELP_16 = """
 
 /Privacy : Display the privacy statement for Sarcastic Bot 
 """
+HELP_17 = """
+<b><u>𝖬𝗈𝖽𝖾𝗋𝖺𝗍𝗈𝗋𝗌 :</b></u>
+Under : @UncountableAura (DEV)
+"""
