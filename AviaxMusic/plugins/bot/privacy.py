@@ -5,12 +5,9 @@ from AviaxMusic import app
 import config
 
 TEXT = f"""
-🔒 **Privacy Policy for {app.mention} !**
+**ᴘʀɪᴠᴀᴄʏ ᴘᴏʟɪᴄʏ ғᴏʀ {app.mention} !! 
 
-Your privacy is important to us. To learn more about how we collect, use, and protect your data, please review our Privacy Policy here: [Privacy Policy]({config.PRIVACY_LINK}).
-
-If you have any questions or concerns, feel free to reach out to our [support team](https://t.me/NexGenSpam).
-"""
+ɪғ ʏᴏᴜʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏʀ ᴄᴏɴᴄᴇʀɴs ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴛᴏ ᴏᴜʀ [sᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ](t.me/BeAkatsuki)  ᴏʀ ᴍᴇ @evyto** !!"""
 
 @app.on_message(filters.command("privacy"))
 async def privacy(client, message: Message):
@@ -18,7 +15,7 @@ async def privacy(client, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "View Privacy Policy", url=config.SUPPORT_GROUP
+                    "𝑝𝑟𝑖𝑣𝑎𝑐𝑦 𝑝𝑜𝑙𝑖𝑐𝑦", url=https://telegra.ph/Privacy-Policy-for-01-10
                 )
             ]
         ]
