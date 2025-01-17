@@ -14,8 +14,6 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 /player : ɢᴇᴛ ᴀ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴩʟᴀʏᴇʀ ᴩᴀɴᴇʟ.
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
-
-**>> ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ 💓 [ʏᴇs ɪᴛ's ᴍᴇ](t.me/Uncountableaura) !!**
 """
 
 HELP_2 = """
@@ -153,11 +151,10 @@ HELP_15 = """
 """
 
 HELP_16 = """
-<b><u>Privacy Command :</b></u>
-
-/Privacy : Display the privacy statement for Sarcastic Bot 
+<b><u>𝖬𝗈𝖽𝖾𝗋𝖺𝗍𝗈𝗋𝗌 :</b></u>
+Under : @UncountableAura
 """
 HELP_17 = """
 <b><u>𝖬𝗈𝖽𝖾𝗋𝖺𝗍𝗈𝗋𝗌 :</b></u>
-Under : @UncountableAura (DEV)
+Under : @UncountableAura
 """
